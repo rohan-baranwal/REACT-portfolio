@@ -1,6 +1,8 @@
 {
   "editor.tabSize": 2,
-  "editor.wordWrapColumn": 140,
+  "editor.wordWrapColumn": 150,
   "editor.wordWrap": "wordWrapColumn",
-  "prettier.printWidth": 140
+  "prettier.printWidth": 150,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
 }
