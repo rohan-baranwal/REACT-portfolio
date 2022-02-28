@@ -1,0 +1,6 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrapColumn": 140,
+  "editor.wordWrap": "wordWrapColumn",
+  "prettier.printWidth": 140
+}
