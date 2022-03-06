@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14018881.css",
+    "main.js": "/static/js/main.bc11d2a7.js",
+    "static/media/profile-image-4.png": "/static/media/profile-image-4.30f10386e10ff89f8d2b.png",
+    "static/media/rohan-baranwal-resume.pdf": "/static/media/rohan-baranwal-resume.9a484da208305bccaada.pdf",
+    "static/media/profile-image-2.jpg": "/static/media/profile-image-2.cf1d92ba0260d480a5ee.jpg",
+    "static/media/portfolio1.webp": "/static/media/portfolio1.6a51b5363a446c436eeb.webp",
+    "static/media/avatar1.jfif": "/static/media/avatar1.da6f3ce198a7d13fdc95.jfif",
+    "index.html": "/index.html",
+    "main.14018881.css.map": "/static/css/main.14018881.css.map",
+    "main.bc11d2a7.js.map": "/static/js/main.bc11d2a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14018881.css",
+    "static/js/main.bc11d2a7.js"
+  ]
+}
